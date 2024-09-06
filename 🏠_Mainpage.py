@@ -37,7 +37,7 @@ with body:
             mime="application/pdf")
 
     with col3:
-        st.image("src/Myimage.jpg", width=400 )
+        st.image("src/Myimage.jpg", width=520 )
 
     # skills --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     st.subheader("My :blue[skills] ⚒️",divider='rainbow') #,divider='rainbow'
